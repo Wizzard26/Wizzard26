@@ -11,5 +11,6 @@ So you always have to keep yourself up to date and move with the ravages of time
 <br>
 A big part in my life was all about design.
 <br>
+<br>
 ![Simle on](https://rene-van-dinter.de/src/img/ref/logo/doPhoto.jpg) | ![Simle on](https://rene-van-dinter.de/src/img/ref/logo/tomateBasilic.jpg) | ![Simle on](https://rene-van-dinter.de/src/img/ref/logo/Survival_Logo.jpg)
 --- | --- | ---
